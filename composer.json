@@ -45,7 +45,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/lightbox2": "2.7.4"
+        "bower-asset/lightbox2": "2.8.1"
     },
     "autoload": {
         "psr-4": {
