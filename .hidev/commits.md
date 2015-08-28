@@ -3,6 +3,7 @@ hiqdev/yii2-asset-lightbox2 commits history
 
 ## Under development
 
+    - aa44889 2015-08-28 rehideved (sol@hiqdev.com)
 
 ## 2.7.1.0 2015-05-24
 
