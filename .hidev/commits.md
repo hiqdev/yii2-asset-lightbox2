@@ -3,6 +3,11 @@ hiqdev/yii2-asset-lightbox2 commits history
 
 ## Under development
 
+- Fixed asset pathes
+    - ea3c864 2015-08-28 fixed asset pathes (sol@hiqdev.com)
+
+## 2.7.2 2015-08-28
+
 - Changed to version 2.7.2
     - 5331f40 2015-08-28 changed to version 2.7.2 (sol@hiqdev.com)
 - Changed: moved to src
