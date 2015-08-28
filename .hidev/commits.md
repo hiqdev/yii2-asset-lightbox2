@@ -3,6 +3,11 @@ hiqdev/yii2-asset-lightbox2 commits history
 
 ## Under development
 
+- Changed to version 2.7.2
+    - 5331f40 2015-08-28 changed to version 2.7.2 (sol@hiqdev.com)
+- Changed: moved to src
+    - 89f09b3 2015-08-28 php-cs-fixed (sol@hiqdev.com)
+    - 5e9082f 2015-08-28 moved to src (sol@hiqdev.com)
     - aa44889 2015-08-28 rehideved (sol@hiqdev.com)
 
 ## 2.7.1.0 2015-05-24
