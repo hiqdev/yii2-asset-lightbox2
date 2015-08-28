@@ -1,0 +1,12 @@
+package:
+    name:           yii2-asset-lightbox2
+    namespace:      hiqdev\assets\lightbox2
+    label:          LightBox2Asset
+    title:          Yii 2 asset for bower LightBox2
+    type:           yii2-extension
+    keywords:       lightbox2, asset, extension, yii2
+    year:           2015
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"

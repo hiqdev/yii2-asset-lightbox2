@@ -1,14 +1,14 @@
 {
     "name": "hiqdev/yii2-asset-lightbox2",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for bower lightbox2",
+    "description": "Yii 2 asset for bower LightBox2",
     "keywords": [
         "lightbox2",
         "asset",
         "extension",
         "yii2"
     ],
-    "homepage": "https://hiqdev.com/yii2-asset-lightbox2",
+    "homepage": "https://github.com/hiqdev/yii2-asset-lightbox2",
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",

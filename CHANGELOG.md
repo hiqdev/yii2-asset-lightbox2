@@ -1,7 +1,11 @@
 hiqdev/yii2-asset-lightbox2 changelog
 -------------------------------------
 
-### 0.1.0 under development
+## Under development
 
-- inited
+
+## 2.7.1.0 2015-05-24
+
+
+## Development started 2015-05-24
 
