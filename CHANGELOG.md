@@ -3,6 +3,10 @@ hiqdev/yii2-asset-lightbox2 changelog
 
 ## Under development
 
+- Changed to version 2.7.4
+
+## 2.7.2.1 2015-08-28
+
 - Fixed asset pathes
 
 ## 2.7.2 2015-08-28
