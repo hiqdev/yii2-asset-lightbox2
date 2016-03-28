@@ -1,8 +1,9 @@
 hiqdev/yii2-asset-lightbox2 changelog
 -------------------------------------
 
-## Under development
+## 2.8.2.1 2016-03-28
 
+- Fixed pathes to CSS an JS files
 
 ## 2.8.1 2015-08-28
 
