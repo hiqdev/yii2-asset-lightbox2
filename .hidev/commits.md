@@ -3,6 +3,7 @@ hiqdev/yii2-asset-lightbox2 commits history
 
 ## Under development
 
+    - f2791b6 2016-03-28 fixed pathes to css an js files (sol@hiqdev.com)
 
 ## 2.8.1 2015-08-28
 

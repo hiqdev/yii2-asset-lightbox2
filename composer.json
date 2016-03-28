@@ -1,7 +1,7 @@
 {
     "name": "hiqdev/yii2-asset-lightbox2",
     "type": "yii2-extension",
-    "description": "Yii 2 asset for bower LightBox2",
+    "description": "Yii2 asset for bower LightBox2",
     "keywords": [
         "lightbox2",
         "asset",
