@@ -22,13 +22,13 @@ class LightboxAsset extends \yii\web\AssetBundle
      * {@inheritdoc}
      */
     public $js = [
-        'dist/js/lightbox.min.js',
+        'js/lightbox.min.js',
     ];
 
     /**
      * {@inheritdoc}
      */
     public $css = [
-        'dist/css/lightbox.css',
+        'css/lightbox.css',
     ];
 }
