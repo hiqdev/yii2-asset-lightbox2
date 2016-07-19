@@ -5,7 +5,3 @@ package:
     headline:       Yii2 LightBox2 assets
     keywords:       lightbox2, asset, extension, yii2
     namespace:      hiqdev\assets\lightbox2
-
-require:
-    hiqdev/hidev-php:       "*"
-    hiqdev/hidev-vendor:    "*"
