@@ -16,7 +16,7 @@ class LightboxAsset extends \yii\web\AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@bower/lightbox2';
+    public $sourcePath = '@bower/lightbox2/dist';
 
     /**
      * {@inheritdoc}
