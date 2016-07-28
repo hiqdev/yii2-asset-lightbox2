@@ -1,9 +1,9 @@
-hiqdev/yii2-asset-lightbox2 commits history
--------------------------------------------
+hiqdev/yii2-asset-lightbox2 changelog
+-------------------------------------
 
-## [Under development]
+## 2.8.2.2 2016-07-28
 
-- Fixed sourcePath in asset bundle
+- Fixed pathes to JS and CSS files (#2)
 
 ## [2.8.2.1] - 2016-03-28
 
@@ -29,3 +29,24 @@ hiqdev/yii2-asset-lightbox2 commits history
 ## [2.7.1.0] - 2015-05-24
 
 - Added basics
+
+## Development started 2015-05-24
+
+
+## 2.7.1.0 2015-05-24
+
+
+## 2.7.2 2015-08-28
+
+
+## 2.7.2.1 2015-08-28
+
+
+## 2.7.4 2015-08-28
+
+
+## 2.8.1 2015-08-28
+
+
+## 2.8.2.1 2016-03-28
+
