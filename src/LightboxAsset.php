@@ -11,6 +11,8 @@
 
 namespace hiqdev\assets\lightbox2;
 
+use yii\web\JqueryAsset;
+
 class LightboxAsset extends \yii\web\AssetBundle
 {
     /**
