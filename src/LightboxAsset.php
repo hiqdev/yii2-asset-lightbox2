@@ -31,4 +31,11 @@ class LightboxAsset extends \yii\web\AssetBundle
     public $css = [
         'css/lightbox.css',
     ];
+
+    /**
+     * @inheritdoc
+     */
+    public $depends = [
+        JqueryAsset::class
+    ];
 }
