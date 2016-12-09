@@ -1,8 +1,11 @@
 hiqdev/yii2-asset-lightbox2 commits history
 -------------------------------------------
 
-## [Under development]
+## [2.8.2.3] - 2016-11-25
 
+- Added LightboxAsset dependency on JqueryAsset
+    - [faa8fe7] 2016-11-25 Added mising `use` statement [d.naumenko.a@gmail.com]
+    - [f95624f] 2016-11-25 Added LightboxAsset dependency on JqueryAsset [d.naumenko.a@gmail.com]
 - Fixed sourcePath in asset bundle
     - [f082ba0] 2016-07-19 fixed sourcePath [sol@hiqdev.com]
     - [6a4d277] 2016-07-19 csfixed [sol@hiqdev.com]
@@ -44,6 +47,12 @@ hiqdev/yii2-asset-lightbox2 commits history
     - [15f9fc4] 2015-05-24 inited [sol@hiqdev.com]
 ## Development started 2015-05-24
 
+## [2.8.2.2] - 2016-07-28
+
+    - [fdcad90] 2016-07-19 rehideving [sol@hiqdev.com]
+
+## [Development started] - 2015-05-24
+
 [f082ba0]: https://github.com//commit/f082ba0
 [6a4d277]: https://github.com//commit/6a4d277
 [8b5585a]: https://github.com//commit/8b5585a
@@ -57,3 +66,6 @@ hiqdev/yii2-asset-lightbox2 commits history
 [5e9082f]: https://github.com//commit/5e9082f
 [aa44889]: https://github.com//commit/aa44889
 [15f9fc4]: https://github.com//commit/15f9fc4
+[faa8fe7]: https://github.com/hiqdev/yii2-asset-lightbox2/commit/faa8fe7
+[f95624f]: https://github.com/hiqdev/yii2-asset-lightbox2/commit/f95624f
+[fdcad90]: https://github.com/hiqdev/yii2-asset-lightbox2/commit/fdcad90
